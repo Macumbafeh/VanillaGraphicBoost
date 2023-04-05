@@ -1,4 +1,4 @@
-## Interface: 11200
+## Interface: 20400
 ## Title: VanillaGraphicsBoost   |cFFFF8080by Istox|r
 ## Version: 1.0
 ## Notes: https://bitbucket.org/StevenShiers/vanillagraphicboost
