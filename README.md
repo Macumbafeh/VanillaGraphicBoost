@@ -5,6 +5,7 @@ Fork of https://github.com/mrrosh/VanillaGraphicBoost
 # VanillaGraphicBoost
 
 Tired of following guides with console commands? This addon will change your game setting automatically each time you log your character into the game world.
+
 I added the Fernbacher's macro inside for patch models
 
 # Installation
