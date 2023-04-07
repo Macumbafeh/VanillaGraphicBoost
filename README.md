@@ -15,6 +15,7 @@ Download the zip file and extract it into your World of Warcraft/Interface/AddOn
 # Note
 
 it works with Vanilla 1.12 and TBC 2.4.3 client (and should work with others client)
+
 Original author of the addon is [Istox](https://forum.elysium-project.org/topic/44582-addon-vanillagraphicsboost-finetune-graphical-quality/).
 
 
